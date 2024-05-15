@@ -1,0 +1,23 @@
+{
+    "name": "sebentleitner/calculator",
+    "description": "A calculator project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sebentleitner\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sebentleitner",
+            "email": "sentleitner@schueler.hakzell.at"
+        }
+    ],
+    "repositories": [{
+        "type": "path",
+        "url":  "../logger"
+    }],
+    "minimum-stability": "dev",
+    "require": {}
+}
