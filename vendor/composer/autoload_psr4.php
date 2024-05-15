@@ -6,5 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Sebentleitner\\Logger\\' => array($vendorDir . '/sebentleitner/logger/src'),
     'Sebentleitner\\Calculator\\' => array($baseDir . '/src'),
 );

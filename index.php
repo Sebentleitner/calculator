@@ -1,6 +1,7 @@
 <?php
 
 use Sebentleitner\Calculator\Calc;
+use Sebentleitner\Logger\EchoLogger;
 
 require 'vendor/autoload.php';
 

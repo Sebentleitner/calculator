@@ -9,11 +9,16 @@ class ComposerStaticInitb8a9caa7f772d3325f70211e58a169e4
     public static $prefixLengthsPsr4 = array (
         'S' => 
         array (
+            'Sebentleitner\\Logger\\' => 21,
             'Sebentleitner\\Calculator\\' => 25,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
+        'Sebentleitner\\Logger\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/sebentleitner/logger/src',
+        ),
         'Sebentleitner\\Calculator\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',

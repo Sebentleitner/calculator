@@ -19,5 +19,7 @@
         "url":  "../logger"
     }],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "sebentleitner/logger": "dev-main"
+    }
 }

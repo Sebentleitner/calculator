@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "7195cd68408106c7abf69ce6e852c1b9",
+    "packages": [
+        {
+            "name": "sebentleitner/logger",
+            "version": "dev-main",
+            "dist": {
+                "type": "path",
+                "url": "../logger",
+                "reference": "a64b5209a46049b821836fe06221ff0dccff8431"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Sebentleitner\\Logger\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sebentleitner",
+                    "email": "sentleitner@schueler.hakzell.at"
+                }
+            ],
+            "description": "A logger library",
+            "transport-options": {
+                "relative": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
