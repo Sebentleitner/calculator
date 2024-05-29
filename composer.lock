@@ -12,7 +12,7 @@
             "dist": {
                 "type": "path",
                 "url": "../logger",
-                "reference": "a64b5209a46049b821836fe06221ff0dccff8431"
+                "reference": "82bdcd9212556b1006e4d6ea96ad539630e50c25"
             },
             "type": "library",
             "autoload": {
@@ -38,7 +38,9 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": [],
+    "stability-flags": {
+        "sebentleitner/logger": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
