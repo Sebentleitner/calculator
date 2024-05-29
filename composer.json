@@ -20,6 +20,6 @@
     }],
     "minimum-stability": "dev",
     "require": {
-        "sebentleitner/logger": "dev-main"
+        "sebentleitner/logger": "^1.2"
     }
 }

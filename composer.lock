@@ -4,15 +4,15 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7195cd68408106c7abf69ce6e852c1b9",
+    "content-hash": "41d2c59bf8d0fb216e45d7b8c15642a1",
     "packages": [
         {
             "name": "sebentleitner/logger",
-            "version": "dev-main",
+            "version": "1.2.1",
             "dist": {
                 "type": "path",
                 "url": "../logger",
-                "reference": "82bdcd9212556b1006e4d6ea96ad539630e50c25"
+                "reference": "3835e55c4cc9e7766444b317792808e1c7397126"
             },
             "type": "library",
             "autoload": {
@@ -38,9 +38,7 @@
     "packages-dev": [],
     "aliases": [],
     "minimum-stability": "dev",
-    "stability-flags": {
-        "sebentleitner/logger": 20
-    },
+    "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
